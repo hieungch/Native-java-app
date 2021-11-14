@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Java form validation</string>
+    <string name="nameerror">Please enter correct name</string>
+    <string name="bederror">Please enter a bed type</string>
+    <string name="dateerror">Please enter valid date combination</string>
+    <string name="renterror">Please enter rent price</string>
+    <string name="reportererror">Please enter a reporter name</string>
+    <string name="emailerror">Please enter correct email</string>
+    <string name="passworderror">Please enter valid password</string>
+    <string name="mobileerror">Please enter valid phone number</string>
+</resources>
